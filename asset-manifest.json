@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pazmiller/pazmiller.github.io.git/static/css/main.e671d714.css",
+    "main.js": "/pazmiller/pazmiller.github.io.git/static/js/main.859f8aff.js",
+    "static/media/wallpaper.jpg": "/pazmiller/pazmiller.github.io.git/static/media/wallpaper.aafd2c19379aee39c4c6.jpg",
+    "index.html": "/pazmiller/pazmiller.github.io.git/index.html",
+    "main.e671d714.css.map": "/pazmiller/pazmiller.github.io.git/static/css/main.e671d714.css.map",
+    "main.859f8aff.js.map": "/pazmiller/pazmiller.github.io.git/static/js/main.859f8aff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e671d714.css",
+    "static/js/main.859f8aff.js"
+  ]
+}
